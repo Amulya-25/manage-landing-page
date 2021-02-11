@@ -1,2 +1,2 @@
 # manage-landing-page
-responsive website creation using bootstrap and javascript for validation.
+responsive website  using bootstrap and javascript for validation.
